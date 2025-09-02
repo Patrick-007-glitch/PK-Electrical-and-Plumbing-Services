@@ -8,7 +8,7 @@ Module : (Introduction) Web Development
 Tools Used
 HTML
 CSS
-Chatfpt (to create the company logo)
+Chatgpt (to create the company logo)
 
 Features
 Index Page
