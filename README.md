@@ -31,3 +31,5 @@ Available at : url https://www.servicetitan.com/blog/electrician-skills
 
 Declaration of AI usage 
 I want to disclose that i made use of AI in my project just for research and fixing gramar mistakes in the business proposal.
+
+Today is 11/09/2025 I am about to include Java in my website
